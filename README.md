@@ -1,5 +1,5 @@
 # Hostel Management System
-The C project we did in the first semester.
+The C implementation of a Hostel Management System we did in our first semester.
 
 ## To run the program:
 Open the command terminal, then go to the Hostel-Management-System directory and enter the following commands:
